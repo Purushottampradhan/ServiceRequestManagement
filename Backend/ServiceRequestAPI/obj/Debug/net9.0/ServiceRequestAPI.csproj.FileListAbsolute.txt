@@ -1,0 +1,8 @@
+/Users/purushottampradhan/projects/ServiceRequestManagement/Backend/ServiceRequestAPI/obj/Debug/net9.0/ServiceRequestAPI.csproj.AssemblyReference.cache
+/Users/purushottampradhan/projects/ServiceRequestManagement/Backend/ServiceRequestAPI/obj/Debug/net9.0/rpswa.dswa.cache.json
+/Users/purushottampradhan/projects/ServiceRequestManagement/Backend/ServiceRequestAPI/obj/Debug/net9.0/ServiceRequestAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/purushottampradhan/projects/ServiceRequestManagement/Backend/ServiceRequestAPI/obj/Debug/net9.0/ServiceRequestAPI.AssemblyInfoInputs.cache
+/Users/purushottampradhan/projects/ServiceRequestManagement/Backend/ServiceRequestAPI/obj/Debug/net9.0/ServiceRequestAPI.AssemblyInfo.cs
+/Users/purushottampradhan/projects/ServiceRequestManagement/Backend/ServiceRequestAPI/obj/Debug/net9.0/ServiceRequestAPI.csproj.CoreCompileInputs.cache
+/Users/purushottampradhan/projects/ServiceRequestManagement/Backend/ServiceRequestAPI/obj/Debug/net9.0/ServiceRequestAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/purushottampradhan/projects/ServiceRequestManagement/Backend/ServiceRequestAPI/obj/Debug/net9.0/ServiceRequestAPI.MvcApplicationPartsAssemblyInfo.cache
